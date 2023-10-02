@@ -1,11 +1,10 @@
 import React from 'react';
-import PieChart from './PieChart';
 const PracticeAmount = () => {
   
   return (
     <div className='containerStyle fade-in'>
-      {/* <PieChart></PieChart> */}
       <h1>Tips and Suggestions for Effective Piano Practice</h1>
+      <hr style={{color: 'black', fontSize: "5px"}}></hr>
 
       <h2>Setting Practice Goals</h2>
       <p>
@@ -24,6 +23,7 @@ const PracticeAmount = () => {
           in a particular style of music.
         </li>
       </ul>
+      <hr style={{color: 'black', fontSize: "5px"}}></hr>
 
       <h2>Practice Strategies by Skill Level</h2>
       <p>
@@ -66,6 +66,7 @@ const PracticeAmount = () => {
           and competitions by simulating real stage conditions.
         </li>
       </ul>
+      <hr style={{color: 'black', fontSize: "5px"}}></hr>
 
       <h2>Organizing Practice Time</h2>
       <p>
