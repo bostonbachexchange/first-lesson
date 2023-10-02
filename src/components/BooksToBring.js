@@ -102,8 +102,8 @@ Beginning Jazz Techniques for Intermediate- to Advanced-Level Pianists</a>" is a
         </li>
         <li className='listItemStyle'>
           <em>Technique Books:</em> Strengthening finger dexterity and hand
-          coordination is vital. "Hanon: The Virtuoso Pianist in Sixty
-          Exercises" is a classic choice.
+          coordination is vital. "<a href="https://www.pianogratis.com/partiturasgratis/hanon.pdf" target="_blank">Hanon: The Virtuoso Pianist in Sixty
+          Exercises</a>" is a classic choice.
         </li>
         <li className='listItemStyle'>
           <em>Repertoire Books:</em> Exploring different musical styles and

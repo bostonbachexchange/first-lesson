@@ -10,7 +10,7 @@ const Resources = () => {
       <h2>Sheet Music and Method Books</h2>
       <ul>
         <li><a href="https://imslp.org/" target="_blank">IMSLP (International Music Score Library Project)</a> - IMSLP offers a vast collection of free public domain sheet music, including classical compositions from renowned composers.</li>
-        <li><a href="https://www.fabermusic.com/" target="_blank">Faber and Faber</a> - Faber and Faber provides a range of piano method books and educational resources suitable for pianists of all levels.</li>
+        <li><a href="https://pianoadventures.com" target="_blank">Faber and Faber</a> - Faber and Faber provides a range of piano method books and educational resources suitable for pianists of all levels.</li>
         <li><a href="https://www.sheetmusicplus.com/" target="_blank">Sheet Music Plus</a> - Sheet Music Plus offers a wide selection of sheet music for various genres and skill levels, along with digital downloads.</li>
         <li><a href="https://www.pianostreet.com/" target="_blank">Piano Street</a> - Piano Street provides a wealth of sheet music, educational materials, and a supportive community for pianists.</li>
       </ul>
