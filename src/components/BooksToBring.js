@@ -97,7 +97,8 @@ const BooksToBring = () => {
           like "John W. Schaum Note Spellers" offer drills and exercises.
         </li>
         <li className='listItemStyle'>
-          <em>Improvisation Books:</em> Ann Collins' book "Improvisation for Musicians" is an excellent resource for those looking to enhance their improvisational skills. It covers various musical styles and provides practical exercises to develop your improvisation abilities.
+          <em>Improvisation Books:</em> Ann Collins' book "<a href="https://www.alfred.com/jazz-works/p/00-18785/" target="_blank">Jazz Works 
+Beginning Jazz Techniques for Intermediate- to Advanced-Level Pianists</a>" is an excellent resource for those looking to enhance their improvisational skills. It covers various musical styles and provides practical exercises to develop your improvisation abilities.
         </li>
         <li className='listItemStyle'>
           <em>Technique Books:</em> Strengthening finger dexterity and hand
