@@ -17,7 +17,7 @@ function App() {
           <ul className='nav-bar'>
         <div className='logo'><div className='text-center'><b>Jacob Clapper </b></div><div className='text-center'><em>Piano Studio</em></div></div>
             <li>
-              <Link className='nav-customlink' to="/lesson">Lesson</Link>
+              <Link className='nav-customlink' to="/first-lesson">Lesson</Link>
             </li>
             <li>
               <Link className='nav-customlink' to="/books">Books</Link>
@@ -42,8 +42,7 @@ function App() {
           <Route path="/materials" element={<MaterialsToBring />} />
           <Route path="/practice" element={<PracticeAmount />} />
           <Route path="/comparison" element={<MusicComparisonBlog />} />
-          <Route path="/" element={<LessonIntro />} />
-          <Route path="/lesson" element={<LessonIntro />} />
+          <Route path="/first-lesson" element={<LessonIntro />} />
           <Route path="/resources" element={<Resources />} />
         </Routes>
       </div>

@@ -6,7 +6,7 @@ const Resources = () => {
        
     <div className='containerStyle fade-in'>
       <h1>Piano Learning Resources</h1>
-
+      <hr style={{color: 'black', fontSize: "5px"}}></hr>
       <h2>Sheet Music and Method Books</h2>
       <ul>
         <li><a href="https://imslp.org/">IMSLP (International Music Score Library Project)</a> - IMSLP offers a vast collection of free public domain sheet music, including classical compositions from renowned composers.</li>
