@@ -6,7 +6,7 @@ const PracticeAmount = () => {
       <h1>Tips and Suggestions for Effective Piano Practice</h1>
       <hr style={{color: 'black', fontSize: "5px"}}></hr>
 
-      <h2>Setting Practice Goals</h2>
+      <h2>Setting Goals</h2>
       <p>
         Effective piano practice starts with clear goals. Whether you're a
         beginner or an advanced pianist, consider the following:
@@ -25,7 +25,7 @@ const PracticeAmount = () => {
       </ul>
       <hr style={{color: 'black', fontSize: "5px"}}></hr>
 
-      <h2>Practice Strategies by Skill Level</h2>
+      <h2>Practice Strategies</h2>
       <p>
         Tailor your practice routine to your current skill level:
       </p>

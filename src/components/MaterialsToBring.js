@@ -25,23 +25,25 @@ function MaterialsToBring() {
     <div className='containerStyle fade-in'>
       <h1 className='headingStyle'>Essential Materials and Resources</h1>
       <hr style={{color: 'black', fontSize: "5px"}}></hr>
-      <h3 className="subheadingStyle">Choosing the Right Piano or Keyboard</h3>
-
-      <h4>Advantages of a Traditional Piano:</h4>
+      <h2 className="subheadingStyle">Choosing the Right Piano or Keyboard</h2>
+      <div>
+        <img className="w-100" src="https://cdn.regent.edu/wp-content/uploads/2022/03/steinway-sons-showcases-piano-spirior-regent-university-1760x990.png"></img>
+      </div>
+      <h3 className="subheadingStyle">Advantages of a Traditional Piano:</h3>
       <ul>
         <li className='listItemStyle'><strong>Authentic Sound:</strong> Acoustic pianos produce a rich, authentic sound that many musicians cherish.</li>
         <li className='listItemStyle'><strong>Tactile Experience:</strong> Playing a traditional piano offers a tactile experience, as you feel the weight of the keys and the vibration of the strings.</li>
         <li className='listItemStyle'><strong>Stability:</strong> High-quality acoustic pianos are built to last for generations.</li>
       </ul>
 
-      <h4>Advantages of Digital Keyboards:</h4>
+      <h3 className="subheadingStyle">Advantages of Digital Keyboards:</h3>
       <ul>
         <li className='listItemStyle'><strong>Portability:</strong> Digital keyboards are portable and can be easily moved or taken to lessons.</li>
         <li className='listItemStyle'><strong>Variety of Sounds:</strong> You can access a wide range of sounds, from piano to synthesizers, on a digital keyboard.</li>
         <li className='listItemStyle'><strong>Headphone Compatibility:</strong> Practice silently with headphones, ideal for quiet environments.</li>
       </ul>
 
-      <h4>Disadvantages:</h4>
+      <h3 className="subheadingStyle">Disadvantages:</h3>
       <ul>
         <li className='listItemStyle'><strong>Cost:</strong> Acoustic pianos can be expensive, while digital keyboards vary in price based on features and quality.</li>
         <li className='listItemStyle'><strong>Size:</strong> Traditional pianos require a dedicated space, while keyboards are more space-efficient.</li>
@@ -61,13 +63,15 @@ function MaterialsToBring() {
       <hr style={{color: 'black', fontSize: "5px"}}></hr>
 
       <h3 className="subheadingStyle">The Metronome: A Rhythmic Necessity</h3>
-      <p className="paragraphStyle">
-        A metronome is a vital tool for every pianist. It helps you maintain proper timing and rhythm during practice sessions. Here's a quick historical fact:
-      </p>
-      <p className="paragraphStyle"><strong>Historical Fact:</strong> The metronome was invented by Johann Nepomuk Maelzel in the early 19th century. It allowed musicians to precisely measure and practice at specified tempos.</p>
-      <img src="metronome_image.jpg" alt="Metronome" />
-
-      <p className="paragraphStyle">Today, metronomes come in various forms, from traditional mechanical ones to digital apps that you can install on your smartphone or computer.</p>
+      <div className='flex'>
+        <div style={{display: 'inline-block'}}>
+          <p className="paragraphStyle">
+          A metronome is a vital tool for every pianist. It helps you maintain proper timing and rhythm during practice sessions. Today, metronomes come in various forms, from traditional mechanical ones to digital apps that you can install on your smartphone or computer.</p>
+        </div>
+        <img style={{height: '70px', display: 'inline-block', float:'left'}} src="https://d1aeri3ty3izns.cloudfront.net/media/27/279420/600/preview_1.jpg"></img>
+      </div>
+      <p className="paragraphStyle">The metronome was invented by <em>Johann Nepomuk Maelzel</em> in the early 19th century. It allowed musicians to precisely measure and practice at specified tempos.</p>
+      <br></br>
       <hr style={{color: 'black', fontSize: "5px"}}></hr>
 
       <h3 className="subheadingStyle">Keeping a Notebook for Success</h3>
@@ -86,7 +90,7 @@ function MaterialsToBring() {
         There are numerous apps available to assist you in your piano or keyboard learning experience:
       </p>
       <ul>
-        <li className='listItemStyle'><strong>Learning Apps:</strong> Apps like "Simply Piano" and "Yousician" offer interactive lessons and exercises.</li>
+        <li className='listItemStyle'><strong><a target="_blank" href="https://apps.apple.com/us/app/piano-adventures-player/id991354392">Piano Adventures Player</a>:</strong> The app provides easy access to interactive play-along accompaniments for the Piano Adventures method books — bringing an orchestra, jazz ensemble and rock band right to your mobile device. The user interface is elegantly designed, appropriate for all ages and instructional levels.</li>
         <li className='listItemStyle'><strong>Sheet Music Apps:</strong> Apps like "Sheet Music Scanner" can convert printed sheet music into a digital format.</li>
         <li className='listItemStyle'><strong>Metronome Apps:</strong> Numerous metronome apps provide adjustable tempo settings and visual cues.</li>
       </ul>
