@@ -92,7 +92,7 @@ function MaterialsToBring() {
       <ul>
         <li className='listItemStyle'><strong><a target="_blank" href="https://apps.apple.com/us/app/piano-adventures-player/id991354392">Piano Adventures Player</a>:</strong> The app provides easy access to interactive play-along accompaniments for the Piano Adventures method books — bringing an orchestra, jazz ensemble and rock band right to your mobile device. The user interface is elegantly designed, appropriate for all ages and instructional levels.</li>
         <li className='listItemStyle'><strong>Sheet Music Apps:</strong> Apps like "Sheet Music Scanner" can convert printed sheet music into a digital format.</li>
-        <li className='listItemStyle'><strong>Metronome Apps:</strong> Numerous metronome apps provide adjustable tempo settings and visual cues.</li>
+        <li className='listItemStyle'><strong>Metronome Apps:</strong> Numerous metronome apps such as <a href="https://apps.apple.com/us/app/metronome-%CF%9F/id416443133" target='_blank'>MetroTimer</a> provide adjustable tempo settings and visual cues.</li>
       </ul>
 
       <p className="paragraphStyle">In conclusion, whether you choose a traditional piano or a digital keyboard, access to sheet music, a metronome, and a notebook can significantly enhance your piano learning journey. Explore various options and use technology to your advantage by incorporating apps into your practice routine. Remember, the key to success is dedication, practice, and a love for the music you create. Happy playing!</p>
