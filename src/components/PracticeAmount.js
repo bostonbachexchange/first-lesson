@@ -37,8 +37,7 @@ const PracticeAmount = () => {
           positioning, finger strength, and basic note reading.
         </li>
         <li>
-          <strong>Short, Frequent Sessions:</strong> Keep practice sessions
-          short (15-30 minutes) but consistent. Frequent practice helps build
+          <strong>Short, Frequent Sessions:</strong> Keep practice sessions consistent (15-30 minutes). Frequent practice helps build
           muscle memory.
         </li>
       </ul>

@@ -90,7 +90,7 @@ const BooksToBring = () => {
           <em>Sight Reading Books:</em> These books focus on improving
           sight-reading skills, a crucial aspect of becoming a proficient
           pianist. Brands like "Sight Reading and Rhythm Every Day" by Helen
-          Marlais are excellent choices.
+          Marlais and "A Line A Day Sight Reading" by Jane Smisor Bastien are excellent choices.
         </li>
         <li className='listItemStyle'>
           <em>Note Speller Books:</em> To reinforce note-reading skills, books
