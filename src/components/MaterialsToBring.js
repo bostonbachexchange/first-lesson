@@ -31,16 +31,16 @@ function MaterialsToBring() {
       </div>
       <h3 className="subheadingStyle">Advantages of a Traditional Piano:</h3>
       <ul>
-        <li className='listItemStyle'><strong>Authentic Sound:</strong> Acoustic pianos produce a rich, authentic sound that many musicians cherish.</li>
-        <li className='listItemStyle'><strong>Tactile Experience:</strong> Playing a traditional piano offers a tactile experience, as you feel the weight of the keys and the vibration of the strings.</li>
-        <li className='listItemStyle'><strong>Stability:</strong> High-quality acoustic pianos are built to last for generations.</li>
+        <li className='listItemStyle'><strong>Authentic Sound:</strong> Acoustic pianos produce a rich, authentic sound that many musicians cherish. The complexity and warmth of the tone add depth to classical music interpretations.</li>
+        <li className='listItemStyle'><strong>Tactile Experience:</strong> Playing a traditional piano offers a tactile experience as you feel the weight of the keys and the vibration of the strings. This touch sensitivity allows for nuanced playing techniques, crucial for classical pianists.</li>
+        <li className='listItemStyle'><strong>Stability:</strong> High-quality acoustic pianos are built to last for generations, making them enduring family heirlooms and investments in musical tradition.</li>
       </ul>
 
       <h3 className="subheadingStyle">Advantages of Digital Keyboards:</h3>
       <ul>
-        <li className='listItemStyle'><strong>Portability:</strong> Digital keyboards are portable and can be easily moved or taken to lessons.</li>
+        <li className='listItemStyle'><strong>Portability:</strong> Digital keyboards are portable and can be easily moved. Their lightweight design is perfect for musicians on the go.</li>
         <li className='listItemStyle'><strong>Variety of Sounds:</strong> You can access a wide range of sounds, from piano to synthesizers, on a digital keyboard.</li>
-        <li className='listItemStyle'><strong>Headphone Compatibility:</strong> Practice silently with headphones, ideal for quiet environments.</li>
+        <li className='listItemStyle'><strong>Headphone Compatibility:</strong> Digital keyboards allow for silent practice with headphones, ideal for quiet environments or late-night practicing without disturbing others.</li>
       </ul>
 
       <h3 className="subheadingStyle">Disadvantages:</h3>
