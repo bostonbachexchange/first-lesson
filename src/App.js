@@ -8,6 +8,7 @@ import Resources from './components/Resources';
 import LessonIntro from './components/LessonIntro';
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import ScaleTable from './components/ScaleTable';
 
 function App() {
   return (
@@ -44,6 +45,7 @@ function App() {
           <Route path="/comparison" element={<MusicComparisonBlog />} />
           <Route path="/first-lesson" element={<LessonIntro />} />
           <Route path="/resources" element={<Resources />} />
+          <Route path="/scaletable" element={<ScaleTable />} />
         </Routes>
       </div>
     </Router>
